@@ -56,7 +56,7 @@ git clone https://github.com/arunkarthik0712/react-router-task.git
 2. Navigate to the project directory:
 
 ```bash
-cd react-todo
+cd react-router-task
 ```
 
 3. Install the dependencies:
